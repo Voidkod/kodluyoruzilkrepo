@@ -20,14 +20,14 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
+## License
 
 [MIT](https://github.com/Voidkod/kodluyoruzilkrepo/blob/main/LICENSE)
 
-##Picture of project folder
+## Picture of project folder
 
 ![Picture of project folder](https://github.com/Voidkod/kodluyoruzilkrepo/blob/main/FolderPicture.PNG)
